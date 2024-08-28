@@ -11,13 +11,22 @@ This repository contains a Tableau Public project that I created as part of a da
    - **Description**: This line chart displays the total monthly cash inflows throughout the year. It highlights the trends and fluctuations in revenue, enabling easy identification of peak and low-performing months.
    - **Insights**: The chart shows a significant drop in revenue during June, with gradual recovery in subsequent months.
 
+<img width="1182" alt="image" src="https://github.com/user-attachments/assets/e2d7c50e-a06b-41f5-85dd-3bf725627e38">
+
+
 ### 2. **Total Monthly Cash Inflows by Location**
    - **Description**: A stacked bar chart that breaks down the total monthly cash inflows by geographical location. The locations considered include APAC, EMEA, and the USA.
    - **Insights**: The USA consistently contributes the highest revenue, with APAC showing significant contributions in the first quarter. EMEA has a steady, though smaller, contribution throughout the year.
 
+<img width="807" alt="image" src="https://github.com/user-attachments/assets/61cb18e6-6d2e-44b4-970f-6e0079ad5cf4">
+
+
 ### 3. **Total Cash Inflows by Product**
    - **Description**: A pie chart depicting the distribution of total cash inflows among different products offered by the company. The products include Customer Success, Main App, Marketing Automation, and Publishing.
    - **Insights**: The Main App and Customer Success products generate the majority of the revenue, indicating their importance to the company’s overall financial health.
+
+<img width="710" alt="image" src="https://github.com/user-attachments/assets/eddd48bc-a9f1-4c77-ba23-6fdb67987ea3">
+
 
 ## How to Access the Dashboard
 
