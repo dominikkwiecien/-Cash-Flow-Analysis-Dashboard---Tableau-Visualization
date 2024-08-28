@@ -44,18 +44,9 @@ The visualizations were created using a dataset that contains monthly cash inflo
 ## Repository Contents
 
 - **`CashFlowAnalysisDashboard.twbx`**: The Tableau workbook file used to create the visualizations.
-- **Screenshots**: A folder containing screenshots of the visualizations for quick reference.
 
-## Acceptance Criteria
-
-- The workbook is accessible on Tableau Public.
-- The data used aligns with the requirements of the task.
-- The workbook includes sheets that fulfill the task's visualization needs.
 
 ## Conclusion
 
 This project showcases the effective use of Tableau to analyze and present cash flow data. The visualizations provide clear insights into the company's revenue patterns, aiding in strategic decision-making. I encourage you to explore the dashboard and interact with the data for a deeper understanding.
 
-## Contact
-
-For any questions or feedback, feel free to reach out via [your email/contact info].
